@@ -1,4 +1,4 @@
-FROM carlosotgz/cuckoo:2.0
+FROM carlosotgz/cuckoo:2.0-rooter
 
 LABEL maintainer "Carlos Ortigoza Dempster"
 
